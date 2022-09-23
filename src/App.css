@@ -24,11 +24,17 @@
   margin-top: 16px;
 }
 
-.waveButton {
+.btn {
   cursor: pointer;
   margin-top: 16px;
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+}
+.btnWave {
+  background: #FFE9A0;
+}
+.btnLogOut{
+  background: #000;
+  color: white;
 }
